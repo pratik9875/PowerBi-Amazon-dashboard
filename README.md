@@ -1,11 +1,12 @@
 # PowerBi-Amazon-dashboard
 ## Recommended Structure and Order
-### 1.	Project Title / Headline
+### 1.	Project Title 
 ❄️ Amazon Sales Dashboard
 A dynamic, interactive data visualization tool built to explore Amazon data.
 
-### 2.	Short Description / Purpose 
-The Snowy Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 499 ski resorts across 38 countries and 5 continents. The dashboard focuses on highlighting major ski resort features like summer skiing availability, night skiing, lift types, and slope difficulty. This tool is intended for use by tourism analysts, winter sports enthusiasts, travel companies, and data-driven strategists who seek to understand trends and characteristics of ski resorts globally.
+### 2.	Short Description 
+This Amazon Sales Dashboard, built in Power BI, provides a comprehensive overview of sales performance, product trends, customer insights, and key KPIs. It enables real-time tracking of revenue, order volumes, top-selling products, and geographical sales distribution, helping sellers make data-driven decisions to optimize their Amazon business.
+
 
 ### 3.	Tech Stack
 The dashboard was built using the following tools and technologies:<br>
@@ -13,7 +14,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
 •	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
-•	📁 File Format – .pbix for development and .png for dashboard previews.
+•	📁 File Format – .pbix for development and .pdf for dashboard previews.
 
 ### 4.	Data Source
 Source: Ski-resort-stats.com & NASA Earth Observations. 
@@ -76,4 +77,4 @@ Vacation Planning: Tourists can plan trips based on slope availability, elevatio
 Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
 ### 6.	Screenshots / Demos
- ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+ ![Dashboard Preview](https://github.com/pratik9875/PowerBi-Amazon-dashboard/blob/main/Amazon.pdf)
